@@ -22,6 +22,5 @@ public class PersonService {
                 .builder()
                 .message("Created person with 10"+ savedPerson.getId())
                 .build();
-
     }
 }
